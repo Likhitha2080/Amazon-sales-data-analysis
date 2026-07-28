@@ -25,6 +25,8 @@ This project analyzes Amazon sales data using Power BI to identify sales trends,
 <img width="876" height="490" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/e38948f3-2caf-4207-8ba0-28382f4eb573" />
 <img width="884" height="497" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/54c9cc44-b6d6-4069-a0cc-916282cf3844" />
 
+# Dataset Used
+- <a href="https://github.com/Likhitha2080/Amazon-sales-data-analysis/blob/main/ECOMM%20DATA.xlsx" a>Dataset
 
 
 
