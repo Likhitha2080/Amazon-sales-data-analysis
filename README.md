@@ -19,3 +19,9 @@ This project analyzes Amazon sales data using Power BI to identify sales trends,
 - Profit Analysis
 - Customer Segment Analysis
 - Interactive Slicers
+
+# Dashboard
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/3e8a6e29-88c1-4c4c-85f6-575c1e3dbc23" />
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/c44c1522-209c-4972-a287-0f9f4691d699" />
+
+
